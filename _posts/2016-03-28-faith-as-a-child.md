@@ -1,0 +1,76 @@
+---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: 'It is no news that we live in a crazy world today. Jesus warned us that we would be like sheep among wolves. And we know that in order to survive in this crazy world where we live, we must be wise and prudent. In fact, as Jesus himself acknowledges, we are to be as wise as serpents in order to avoid getting devoured. All of us, while studying in this school of hard knocks, do tend to become wise as a result of the many challenges that we encounter. So, what’s the problem?'
+datePublished: '2016-03-28T07:58:20.479Z'
+dateModified: '2016-03-28T07:57:44.237Z'
+title: Faith as a Child
+author: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+sourcePath: _posts/2016-03-28-faith-as-a-child.md
+published: true
+url: faith-as-a-child/index.html
+_type: Article
+
+---
+## **Sheep Among Wolves**
+
+It is no news that we live in a crazy world today. Jesus warned us that we would be like sheep among wolves. And we know that in order to survive in this crazy world where we live, we must be wise and prudent. In fact, as Jesus himself acknowledges, we are to be as wise as serpents in order to avoid getting devoured. All of us, while studying in this school of hard knocks, do tend to become wise as a result of the many challenges that we encounter. So, what's the problem?
+
+## **But...**
+
+For some reason, Jesus has this admonition for us to have faith like little children. What? Jesus tells first tells us that we must be wise as serpents, and now He tells us that we need to have faith like little children? He even drives this point home by stating that unless we have that childlike faith, we will not enter His kingdom. Rather strong words indeed!
+
+## **Why Faith Like Little Children?**
+
+Why do you suppose that it is so important to our Lord that we have that childlike faith? Well, let us take a look at the normal characteristics of little children. They do not worry about their provision, for they just know that Mommy and Daddy will always provide for their every need, whether it be food, clothing, shelter, protection or emotional well being. They have an unshakable faith and trust that Mommy and Daddy will always be there. They have complete  openness and transparency with their parents, and hold nothing back. They know that they are loved at the deepest level, and that love gives them the confidence and courage to explore the world around them.
+
+## **Trust in Our Heavenly Father**
+
+Well, guess what -- these are the same exact qualities that our heavenly Father wishes us to have with Him. Why else would He repeatedly refer to us as His beloved children? Because of the sin in the world, the enemy of our souls has succeeded in stealing from us that childlike faith and trust in our Father. And yet, everything that the Lord allows to happen in our journey of life is geared toward one ultimate purpose, and that is to reestablish, renew and solidify our trust and faith in Him. It is His deepest desire that each one of His beloved children trusts and loves Him so completely that we will honor Him even if everything is taken away. Remember what happened to[Job][0]?
+
+## **Epitome of Childlike Faith**
+
+For an endearing example of childlike faith in the love of our Lord, let us consider little[11 year-old Chiara][1]. Her body was riddled with cancer, and her family flew her to Medjugorje in the hope of finding the healing touch of God for her. Despite her condition, Chiara was full of joy, serenity, simplicity and a pure heart. Some of her comments during that trip include:
+
+> You know, Jesus will decide for me, I know that He will make the best decision. I am confident! Either I will be healed and I am happy, or I will not be healed and I am happy too! In both cases, I win because I know that it is He who decides.
+> 
+> If I die, I will go to heaven and I will wait for you there!
+> 
+> You know, Vicka, I am not afraid to die! If I live, I win. If I die, I win! In both cases I'll be with Jesus!
+
+Wow, talking about power coming from the mouths of babes!
+
+## **As for Me**
+
+Do I have this kind of absolute trust in our God, no matter what happens? Admittedly, I am not there myself -- yet! But I am a lot closer now than ever before. For over the past few years, the Lord allowed almost everything that I hold dear to be taken away. Things like my career, my nice house, my health, my independence, my dreams, and even my ministry, they were all taken away. Of course I initially tried to fight to keep these blessings; after all, God gave me the name Michael for a reason. But as I slowly let go of those things, my faith in our Lord slowly became stronger and more deeply rooted. My certitude in the love of our Father is now stronger, but still nowhere near that of Chiara.
+
+## **What About You?**
+
+How much do you trust our Lord? Is your faith still contingent upon whether or not He answers your prayers or gives you what you want? I think that you already know this, but let me gently remind you that this kind of selfish faith is shaky at best, and ultimately spells disaster for your soul. Do you want the kind of faith that Chiara has? It is free for the taking; all you need to do is ask your Father for it. My heart-felt prayer is that all of us will come to have this unmovable faith in our Father.
+
+## **the Word**
+
+Matthew 10:16  
+Behold, I am sending you like sheep in the midst of wolves; so be shrewd as serpents and simple as doves.
+
+Mark 10:15, Luke 18:17  
+Amen, I say to you, whoever does not accept the kingdom of God like a child will not enter it.
+
+Photo credit:[kelsey\_lovefusionphoto][2]via[photopin][3][cc][4]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3edb94ec-17b8-48e2-90cb-73843614251d.jpg)
+
+[0]: http://michaelsheaver.com/michaelscorner/faith-crisis-we-all-experience-them "Faith Crisis? We All Experience Them!"
+[1]: http://ingodscompany2.blogspot.com/2012/02/11-year-old-child-teaches-us.html "An 11 year old child teaches us."
+[2]: http://www.flickr.com/photos/supersonicphotos/4420553729/
+[3]: http://photopin.com/
+[4]: http://creativecommons.org/licenses/by/2.0/

@@ -1,19 +1,4 @@
-name: michaelscorner
-favicon: null
-layout_spectrum: 0.0187826631590724
 typography_spectrum: 0.4587636182550341
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -25,4 +10,28 @@ color:
   lightness: 0.7131287837401032
   saturation: 0.6455854689702392
   rhythmicContrast: 0.0776286143809557
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.0187826631590724
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: michaelscorner
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: ' Michael''s Corner'
+content: []
+description: Helping all God's children walk in fulness of life
 purpose: []
+content_rating:
+  adult: false
+author:
+  name: Michael Sheaver
+  email: michael@sheaver.me
+github: true

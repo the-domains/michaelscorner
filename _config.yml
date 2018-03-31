@@ -1,5 +1,6 @@
-layout_spectrum: 0.833249494211361
 typography_spectrum: 0.413845129687671
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#88A825'
@@ -11,19 +12,28 @@ color:
   lightness: 0.11502051719888529
   saturation: 0.4062755247633351
   rhythmicContrast: 0.877859204510817
+github: true
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.833249494211361
 analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Michael Sheaver
+  email: michael@sheaver.me
 name: michaelscorner
 cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Sheep Among Wolves
+    id: 70a14421-951f-423b-ad1a-5829099c71c6
+    type: content
 favicon: null
 title: ' Michael''s Corner'
 content:
@@ -35,27 +45,21 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccec3829-c339-4a89-a0f4-f9e94eec31e6.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Helping all God's children walk in fulness of life
 purpose: []
-content_rating:
-  adult: false
-author:
-  name: Michael Sheaver
-  email: michael@sheaver.me
-github: true
